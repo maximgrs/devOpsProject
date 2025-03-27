@@ -1,7 +1,5 @@
 import React from "react";
 
-type Props = {};
-
-export default function page({}: Props) {
-  return <div>code hier yamanyak</div>;
+export default function page() {
+  return <div>hello world, maksim was here</div>;
 }
