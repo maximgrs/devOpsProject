@@ -3,5 +3,5 @@ import React from "react";
 type Props = {};
 
 export default function page({}: Props) {
-  return <div>code hier yamanyak</div>;
+  return <div>DIego ist heir</div>;
 }
